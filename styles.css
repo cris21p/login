@@ -10,7 +10,7 @@ body{
 }
 
 .main{
-    background-image: url(/people-applauding-film.jpg);
+    background-image: url(/img/people-applauding-film.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
