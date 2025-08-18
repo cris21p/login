@@ -19,6 +19,8 @@ body{
     margin: auto;
     width: 100%;
     height: 100dvh;
+    container-type: inline-size;
+    container-name: seccion;
 }
 
 .ct-mn{
@@ -85,4 +87,11 @@ body{
 .contraseña{
     text-decoration: none;
     color: #d0d0d0;
+}
+
+
+@container seccion (min-width: 700px){
+    .dv-input{
+        width: 30%;
+    }
 }
