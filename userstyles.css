@@ -218,7 +218,7 @@ body{
     height: 32px;
     font-size: 0.875rem;
     border: 1px solid #ccc;
-    background-color: aliceblue;
+    background-color: #007bff;
     border-radius: 5px;
     color: #666;
 }
@@ -226,7 +226,7 @@ body{
 .search:focus{
     outline: none;
     border: none;
-    background-color: #2f89e9;
+    background-color: #007bff;
     color: #191919;
 }
 
