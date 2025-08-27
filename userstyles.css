@@ -216,17 +216,16 @@ body{
     text-align: center;
     margin-bottom: 5px;
     height: 32px;
+    border: none;
     font-size: 0.875rem;
-    border: 1px solid #ccc;
     background-color: #007bff;
     border-radius: 5px;
-    color: #666;
+    color: #262525;
 }
 
 .search:focus{
     outline: none;
-    border: none;
-    background-color: #007bff;
+    background-color: #0367d3;
     color: #191919;
 }
 
